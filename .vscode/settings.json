@@ -1,0 +1,7 @@
+{
+	"peacock.remoteColor": "#ff3d00",
+	"workbench.colorCustomizations": {
+		"activityBar.activeBorder": "#00ff3d"
+	},
+	"files.watcherInclude": ["$kitql"] // Enable fast intellisense of a .gitignore path! :)
+}

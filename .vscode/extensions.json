@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"huuums.vscode-fast-folder-structure",
+		"svelte.svelte-vscode",
+		"prisma.prisma",
+		"johnpapa.vscode-peacock",
+		"GraphQL.vscode-graphql"
+	]
+}

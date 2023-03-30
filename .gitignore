@@ -1,0 +1,12 @@
+node_modules
+/build
+/.svelte-kit
+/package
+
+.env
+!.env.example
+
+$kitql
+$houdini
+
+prisma/dev.db
